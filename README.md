@@ -10,6 +10,6 @@ Second, the log of the container, states we're running on the appropriate HOST, 
 
 [<img alt="Ridge Regression Performance" width="700" height=400 src="./images/Container Running.JPG" />]()
 
-And finally, we can see if we access the appropriate port in our browser, we get the correct message given to us:
+And finally, as we can see via the appropriate port in our browser, the correct message is presented to us (Hello World):
 
 [<img alt="Ridge Regression Performance" width="700" height=400 src="./images/Port Working.JPG" />]()
